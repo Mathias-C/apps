@@ -17,3 +17,5 @@ wget
 bzip2 
 curl
 fish
+nodejs
+npm
