@@ -62,6 +62,7 @@ Configuration files are available in my dotfiles. These are compatible with all 
 # Messaging
 
 - [Franz](https://meetfranz.com/): All your messaging apps bundled in one piece of software
+- [Wire](https://wire.com/en/): Secure, end-to-end encrypted chat messaging and file sharing service. Jurisdiction in CH and Servers in DE.
 
 # Networking
 
