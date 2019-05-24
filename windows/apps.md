@@ -15,6 +15,7 @@
   - One Dark Pro
   - Python Extension
   - Pyright Static Type Checker
+  - Relative Goto
   - shell-format
   - Sort Lines
   - Statusbar Error
