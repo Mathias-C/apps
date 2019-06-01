@@ -15,3 +15,4 @@ Packages include:
 - [SC-IM](https://github.com/andmarti1424/sc-im): A Spreadsheet editor in the command line, the VIM way.
 - [Powerline](https://github.com/powerline/powerline): In order to have sweet status bars for VIM / TMUX / Fish.
 - [thefuck](https://github.com/nvbn/thefuck): A command line utility that automatically corrects syntax errors in your commands.
+- [YADM](https://yadm.io/): Yet Another Dotfiles Manager, to manage your dotfiles.
