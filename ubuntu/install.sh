@@ -6,7 +6,7 @@ apt-get install $(grep -vE "^\s*#" ./pkglist  | tr "\n" " ") -qq ; \
 echo "Installing core packages finished, downloading and installing NeoVim." && \
 curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim ;\
-echo "Installing NeoVIM core packages finished, downloading and installing Anaconda 3." && \
+echo "Installing NeoVIM core packages finished, downloading and installing Miniconda 3 and core Python Packages." && \
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/Miniconda3.sh && \
 bash ~/Miniconda3.sh -b -p $HOME/Miniconda3 && \
 pip install pandas neovim jedi flake8 autopep8 thefuck awscli && \
