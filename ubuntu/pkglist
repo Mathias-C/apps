@@ -12,6 +12,8 @@ libpcre2-dev
 gettext
 tmux
 htop
+highlight
+ranger
 openvpn
 wget
 bzip2 
